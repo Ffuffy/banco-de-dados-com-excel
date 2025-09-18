@@ -37,9 +37,8 @@ Antes de começar, garanta que você tem as seguintes ferramentas instaladas:
 ### Instalação e Configuração
 1.  **Clone o repositório para a sua máquina local:**
     ```sh
-    git clone https://github.com/[Seu Usuário]/[seu-repositorio].git
-    cd [seu-repositorio]
-    ```
+    git clone https://github.com/Ffuffy/banco-de-dados-com-excel/edit/main/README.md
+  
 2.  **Instale as dependências do projeto:**
     ```sh
     npm install
